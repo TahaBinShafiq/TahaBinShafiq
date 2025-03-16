@@ -1,8 +1,8 @@
 - 👋 Hi, I’m TahaBinShafiq
 - 👀 I’m interested in Web development, programming, and learning new technologies
-- 🌱 I’ve completed HTML|CSS and I’m currently learning Introduction to Programming (ITP) 
+- 🌱 I’ve completed HTML|CSS and I’m currently learning Modern Web Development
 - 💞️ I’m looking to collaborate on beginner-friendly web development and coding projects
-- 📫 How to reach me [mt4899192@gmail.com] 
+- 📫 How to reach me [muhammadtahaaa7@gmail.com] 
 
 
 <!---
