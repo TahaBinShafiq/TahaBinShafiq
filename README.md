@@ -1,8 +1,9 @@
 - 👋 Hi, I’m TahaBinShafiq
 - 👀 I’m interested in Web development, programming, and learning new technologies
-- 🌱 I’ve completed HTML|CSS and I’m currently learning Modern Web Development
+- 🌱 I’ve completed HTML, CSS, and JavaScript. I’m currently learning React and Backend as part of the Modern Web Development course.
 - 💞️ I’m looking to collaborate on beginner-friendly web development and coding projects
-- 📫 How to reach me [muhammadtahaaa7@gmail.com] 
+- 📫 How to reach me [muhammadtahaaa7@gmail.com]
+- ✨ Checkout my Portfolio:https://taha-bin-shafiq.vercel.app/
 
 
 <!---
