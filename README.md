@@ -6,7 +6,10 @@
 - ✨ Checkout my Portfolio:https://taha-bin-shafiq.vercel.app/
 
 
-<!---
-TahaBinShafiq/TahaBinShafiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### My Skills & Technologies
+
+- 💻 **Languages:** JavaScript, TypeScript
+- 🎨 **Styling:** CSS, Bootstrap, TailwindCSS
+- 🚀 **Animation:** GSAP
+- 🔥 **Backend:** Firebase
+- ⚙️ **Tools:** Git, GitHub
