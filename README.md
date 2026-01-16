@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tahabinshafiq&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ## Hi there 👋
 - 👋 Hi, I’m TahaBinShafiq
 - 👀 I’m interested in Web development, programming, and learning new technologies
